@@ -45,7 +45,7 @@ I care about **stability, performance, and user experience at scale**.
 
 Instead of listing everything here, I showcase detailed case studies on my portfolio:
 
-👉 **Portfolio:** https://your-website.com  
+👉 **Portfolio:** [https://your-website.com](https://portfolio-website-nhi-le.vercel.app/)  
 
 GitHub focuses on **code quality, architecture, and experiments**, including:
 

@@ -45,7 +45,7 @@ I care about **stability, performance, and user experience at scale**.
 
 Instead of listing everything here, I showcase detailed case studies on my portfolio:
 
-👉 **Portfolio:** [https://your-website.com](https://portfolio-website-nhi-le.vercel.app/)  
+👉 **Portfolio:** https://portfolio-website-1m1o85tws-nhi-le.vercel.app  
 
 GitHub focuses on **code quality, architecture, and experiments**, including:
 
@@ -73,7 +73,7 @@ GitHub focuses on **code quality, architecture, and experiments**, including:
 
 ### 📫 **Contact**
 
-💼 LinkedIn: https://linkedin.com/in/nhi-le-b47164352  
+💼 LinkedIn: https://www.linkedin.com/in/nhile01 
 📩 Email: ilenhi2710@gmail.com  
 
 💡 *Open to remote frontend opportunities.*

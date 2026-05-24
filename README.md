@@ -1,79 +1,108 @@
 ## 👋 Hi there, I'm Nhi Le!
 
-🚀 **Frontend Engineer (React / React Native) | Focused on real-world systems**
+🚀 **Software Engineer | Frontend-Focused | React • TypeScript • NextJS**
 
-I build and maintain **production-scale web & mobile applications**, with a strong focus on:
+I build and maintain scalable web and mobile applications with a strong focus on frontend engineering, user experience, and production reliability.
 
-- Complex UI state & navigation flows  
-- Cross-platform consistency (Web & Mobile)  
-- Debugging real-world issues across frontend, APIs, and microservices  
+My experience includes developing production systems used across multiple countries, building reusable UI architectures, integrating APIs, optimizing frontend performance, and collaborating with cross-functional teams in Agile environments.
 
-I care about **stability, performance, and user experience at scale**.
+I enjoy building clean, maintainable systems and continuously improving both engineering quality and development workflows.
 
 ---
 
-### 💡 **Core Strengths**
+## 💡 Core Strengths
 
-- 🧠 Advanced state management (Redux, Zustand, React Query)
-- 🔍 Debugging production issues across multiple layers
-- 🔗 Deep linking & navigation flow design (React Native)
-- ⚡ Performance optimization & rendering control
-- 🏗 Working in monorepo & CI/CD environments
-
----
-
-### ⚙️ **Tech Stack**
-
-**Frontend**
-- React.js, Next.js, React Native (Expo)
-- TypeScript, TailwindCSS
-
-**State & Data**
-- Redux, Zustand, React Query
-
-**Backend (supporting)**
-- Node.js, NestJS, REST APIs, PostgreSQL
-
-**System**
-- Microservices integration
-- Git, GitHub Actions / GitLab CI
-- Agile / Scrum
+* ⚛️ Frontend architecture with React, NextJS, and React Native
+* 🧠 State management using Zustand and React Query
+* ⚡ Frontend performance optimization and rendering control
+* 🔍 Production debugging and real-world issue investigation
+* 📱 Responsive and cross-platform UI development
+* 🏗 Scalable code structure and reusable component design
 
 ---
 
-### 📌 **Selected Work**
+## ⚙️ Tech Stack
 
-Instead of listing everything here, I showcase detailed case studies on my portfolio:
+### Frontend
 
-👉 **Portfolio:** https://portfolio-website-1m1o85tws-nhi-le.vercel.app  
+* ReactJS, NextJS, React Native
+* TypeScript, JavaScript (ES6+)
+* TailwindCSS, HTML5, CSS3
 
-GitHub focuses on **code quality, architecture, and experiments**, including:
+### State & Data
 
-- Real-world feature implementations  
-- System design experiments  
-- Performance optimization examples  
-- Mini projects & playgrounds  
+* Zustand
+* React Query
+
+### Backend Familiarity
+
+* NestJS
+* REST APIs
+* PostgreSQL
+* WebSocket (Socket.IO)
+
+### Tools & Workflow
+
+* Git / GitHub
+* Jest
+* Agile / Scrum
+* CI/CD environments
 
 ---
 
-### 📊 **GitHub Stats**
+## 📌 Featured Project
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLeNhi&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLeNhi&layout=compact&theme=radical)
+### ⚽ Manchester City Fan Platform
+
+A modern football club platform built with React/NextJS and TypeScript, focused on scalable frontend architecture and responsive user experience.
+
+#### Features
+
+* Dynamic player and club information
+* Match and squad data integration
+* Search and filtering
+* Dynamic routing
+* Loading/error state handling
+* Dark mode support
+* Responsive design across devices
+
+#### Tech Stack
+
+* React / NextJS
+* TypeScript
+* TailwindCSS
+* React Query
+* Zustand
+
+🌐 Live Demo:
+[https://your-demo-link.vercel.app](https://mancity-match-center-wxck-nid8z5q96-nhi-le.vercel.app/)
+
+💻 GitHub Repository:
+[https://github.com/PLeNhi](https://github.com/PLeNhi/mancity_match_center)
 
 ---
 
-### 🎯 **Current Focus**
+## 📊 GitHub Stats
 
-- 🚀 Building high-quality frontend systems  
-- ⚡ Improving performance & scalability  
-- 🤖 Applying AI to development workflows  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLeNhi\&show_icons=true\&theme=radical\&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLeNhi\&layout=compact\&theme=radical)
 
 ---
 
-### 📫 **Contact**
+## 🎯 Current Focus
 
-💼 LinkedIn: https://www.linkedin.com/in/nhile01 
-📩 Email: ilenhi2710@gmail.com  
+* Building scalable frontend systems
+* Improving UI performance and maintainability
+* Exploring AI-assisted development workflows
+* Strengthening software engineering foundations
 
-💡 *Open to remote frontend opportunities.*
+---
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/nhile01
+
+📩 Email: [ilenhi2710@gmail.com](mailto:ilenhi2710@gmail.com)
+
+💡 Open to frontend and software engineering opportunities.

@@ -75,7 +75,7 @@ A modern football club platform built with React/NextJS and TypeScript, focused 
 * Zustand
 
 🌐 Live Demo:
-[https://your-demo-link.vercel.app](https://mancity-match-center-wxck-nid8z5q96-nhi-le.vercel.app/)
+[(https://mancity-match-center-wxck-nid8z5q96-nhi-le.vercel.app/)](https://mancity-match-center-wxck-nid8z5q96-nhi-le.vercel.app/)
 
 💻 GitHub Repository:
 [https://github.com/PLeNhi](https://github.com/PLeNhi/mancity_match_center)

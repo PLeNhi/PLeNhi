@@ -82,14 +82,6 @@ A modern football club platform built with React/NextJS and TypeScript, focused 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLeNhi\&show_icons=true\&theme=radical\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLeNhi\&layout=compact\&theme=radical)
-
----
-
 ## 🎯 Current Focus
 
 * Building scalable frontend systems

@@ -47,39 +47,6 @@ I enjoy building clean, maintainable systems and continuously improving both eng
 * Jest
 * Agile / Scrum
 * CI/CD environments
-
----
-
-## 📌 Featured Project
-
-### ⚽ Manchester City Fan Platform
-
-A modern football club platform built with React/NextJS and TypeScript, focused on scalable frontend architecture and responsive user experience.
-
-#### Features
-
-* Dynamic player and club information
-* Match and squad data integration
-* Search and filtering
-* Dynamic routing
-* Loading/error state handling
-* Dark mode support
-* Responsive design across devices
-
-#### Tech Stack
-
-* React / NextJS
-* TypeScript
-* TailwindCSS
-* React Query
-* Zustand
-
-🌐 Live Demo:
-[(https://mancity-match-center-wxck-nid8z5q96-nhi-le.vercel.app/)](https://mancity-match-center-wxck-nid8z5q96-nhi-le.vercel.app/)
-
-💻 GitHub Repository:
-[https://github.com/PLeNhi](https://github.com/PLeNhi/mancity_match_center)
-
 ---
 
 ## 🎯 Current Focus

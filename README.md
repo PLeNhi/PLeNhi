@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nhi Le!
 
-🚀 **Software Engineer | Frontend-Focused | React • TypeScript • NextJS**
+🚀 **Software Engineer | React • TypeScript • NextJS**
 
 I build and maintain scalable web and mobile applications with a strong focus on frontend engineering, user experience, and production reliability.
 
